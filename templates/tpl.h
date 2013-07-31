@@ -2,11 +2,12 @@
  * @file <T_FILENAME>
  * @author <T_AUTHOR>(<T_AUTHOR_EMAIL>)
  * @date <T_CREATE_DATE>
+ * @version 1.0
  * @brief
  *
  **/
 
-#ifdef <T_HEADER_H>
+#ifndef <T_HEADER_H>
 #define <T_HEADER_H>
 
 <T_CURSOR>
